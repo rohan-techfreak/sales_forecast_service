@@ -4,7 +4,7 @@ Predict sales based on collected data.
 ## Prequisites
 Clone the repository, install the requirements
 
-To Run locally, execute the following command:
+### To Run locally
 
 `python model.py`
 
